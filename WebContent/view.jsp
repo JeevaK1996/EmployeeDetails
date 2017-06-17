@@ -37,11 +37,6 @@ request.setAttribute("list", list);%>
 </c:forEach>
 </table>
 </center>
-<script>
-function myFunction() {
-    alert("Hello! I am an alert box!");
-}
-</script>
 <body>
 
 </body>
